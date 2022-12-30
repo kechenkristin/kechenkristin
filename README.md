@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechenkristin&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/kechenkristin/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kechenkristin&layout=compact&theme=tokyonight)
+
+
