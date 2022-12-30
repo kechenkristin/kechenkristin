@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/liu-kechen-3b1a2624b/
 - 😄 Pronouns: she/her
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?kechenkristin=all-smile&show_icons=true&theme=tokyonight)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechenkristin&show_icons=true&theme=tokyonight)
