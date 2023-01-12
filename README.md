@@ -12,9 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about csapp
 - 📫 How to reach me: https://www.linkedin.com/in/liu-kechen-3b1a2624b/
 - 😄 Pronouns: she/her
-
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=kechenkristin&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kechenkristin&layout=compact)
-
-
