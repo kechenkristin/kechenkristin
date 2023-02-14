@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in University of Exeter 
 - 🌱 I’m currently focusing on cs188
-- 👯 I’m looking to improve myself
+- 👯 I’m looking to finish cs188 proj
 - 💬 Ask me about csapp
 - 📫 How to reach me: https://www.linkedin.com/in/liu-kechen-3b1a2624b/
 - 😄 Pronouns: she/her
