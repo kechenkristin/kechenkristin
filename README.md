@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying in University of Exeter 
+- 🔭 I’m currently studying in University of Exeter (year 2)
 - 🌱 I’m currently focusing on cs188
 - 👯 I’m looking to finish cs188 proj
 - 💬 Ask me about csapp
