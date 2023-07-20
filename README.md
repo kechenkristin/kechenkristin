@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying in University of Exeter (year 2)
-- 🌱 I’m currently focusing on cs188 and cmu15445
-- 👯 I’m looking to finish cs188 proj
+- 🔭 I’m currently doing SWE placement in JPMC
+- 🌱 I’m currently focusing on full stack dev
+- 👯 I’m looking to participate edgex hackathon
 - 💬 Ask me about csapp
 - 📫 How to reach me: https://www.linkedin.com/in/liu-kechen-3b1a2624b/
 - 😄 Pronouns: she/her
